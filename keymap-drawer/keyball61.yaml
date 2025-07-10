@@ -50,18 +50,18 @@ layers:
   - {t: ',', s: <}
   - {t: ., s: '>'}
   - {t: /, s: '?'}
-  - $$mdi:apple-keyboard-shift$$
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - $$mdi:apple-keyboard-control$$
-  - $$mdi:apple-keyboard-option$$
-  - LEFT WIN
-  - SNIPE
-  - {t: '$$mdi:keyboard-space$$', h: MOUSE}
-  - SCROLL
   - {t: '$$mdi:keyboard-return$$', type: enter}
-  - {t: '$$mdi:backspace$$', h: SYM}
+  - $$mdi:apple-keyboard-control$$
+  - $$mdi:apple-keyboard-command$$
   - $$mdi:apple-keyboard-option$$
   - $$mdi:backspace-reverse-outline$$
+  - SNIPE
+  - {t: '$$mdi:keyboard-space$$', h: MOUSE}
+  - {t: '$$mdi:backspace$$', h: SCROLL}
+  - {t: '$$mdi:keyboard-return$$', type: enter}
+  - {t: '$$mdi:keyboard-space$$', h: SYM}
+  - $$mdi:volume-low$$
+  - $$mdi:volume-high$$
   NUM:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '1', s: '!'}
